@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<PC_EVENTOS tipopers="e" codpers="1111" COD_EVENTO="jojojojo"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo1" />
+	<PC_EVENTOS tipopers="e" codpers="1111" COD_EVENTO="eeee"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo2" />
+	<PC_EVENTOS tipopers="e" codpers="1111" COD_EVENTO="ppp"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo3" />
+	<PC_EVENTOS tipopers="e" codpers="1111" COD_EVENTO="pppooo"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo4" />
+	<PC_EVENTOS tipopers="e" codpers="1111" COD_EVENTO="yyyppp"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo5" />
+	<PC_EVENTOS tipopers="e" codpers="1111" COD_EVENTO="ppphhhh"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo5" />
+	<PC_EVENTOS tipopers="e" codpers="1111" COD_EVENTO="oioioi"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo" />
+	<PC_EVENTOS tipopers="p" codpers="1111" COD_EVENTO="mkmkmkmk"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo1" />
+	<PC_EVENTOS tipopers="p" codpers="1111" COD_EVENTO="hyhyhyhy"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo1" />
+	<PC_EVENTOS tipopers="p" codpers="1111" COD_EVENTO="tytyyt"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo1" />
+	<PC_EVENTOS tipopers="p" codpers="1111" COD_EVENTO="jhgj"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo1" />
+	<PC_EVENTOS tipopers="p" codpers="1111" COD_EVENTO="rfdr"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo1" />
+	<PC_EVENTOS tipopers="q" codpers="1111" COD_EVENTO="uyuy"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo1" />
+	<PC_EVENTOS tipopers="q" codpers="1111" COD_EVENTO="hgtyyhyh"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo1" />
+	<PC_EVENTOS tipopers="q" codpers="1111" COD_EVENTO="uuyuuy"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo1" />
+	<PC_EVENTOS tipopers="q" codpers="1111" COD_EVENTO="hfhfhf"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo1" />
+	<PC_EVENTOS tipopers="q" codpers="1111" COD_EVENTO="tutututut"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo1" />
+	<PC_EVENTOS tipopers="q" codpers="1111" COD_EVENTO="jfjdjej"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo1" />
+	<PC_EVENTOS tipopers="q" codpers="1111" COD_EVENTO="kiikikik"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo1" />
+	<PC_EVENTOS tipopers="q" codpers="1111" COD_EVENTO="lklklklk"
+		DETALLE="iwmsdksklsdkdsklsdkldklds" FECHA_FIN="2014-09-01 00:00:00"
+		FECHA_INI="2014-09-02 00:00:00" idempr="kfierirekkfgmdkd" IMAGEN="imagen.jpg"
+		IND_MOSTRADO="9999" TITULO="titulo1" />
+</dataset>
