@@ -64,7 +64,7 @@ public final class DerbyDBSetup {
 			ClassNotFoundException {
 
 		Class.forName("org.apache.derby.jdbc.EmbeddedDriver");
-		String serverPortDatabase = this.dbserver + ":" + this.port + ":"
+		String serverPortDatabase = this.dbserver + ":" + this.port + "/"
 				+ this.databaseName;
 		return DriverManager.getConnection("jdbc:derby:" + serverPortDatabase
 				+ ";" + extraParam + ";user=" + this.username);
